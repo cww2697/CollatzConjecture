@@ -1,3 +1,0 @@
-/home/cody.west@cwmediagroup.net/CollatzConjecture/CMakeFiles/rebuild_cache.dir
-/home/cody.west@cwmediagroup.net/CollatzConjecture/CMakeFiles/edit_cache.dir
-/home/cody.west@cwmediagroup.net/CollatzConjecture/CMakeFiles/CollatzConjecture.dir
