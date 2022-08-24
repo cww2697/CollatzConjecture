@@ -30,4 +30,4 @@ Currently, this program has the following limitations:
 
 #### Notes
 
-Develop branch will contain recent code, however only code pushed to release will be tested and fully functional.
+master branch will contain recent code, however only code pushed to release will be tested and fully functional.
